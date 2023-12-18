@@ -1,0 +1,26 @@
+body
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+button
+{
+    cursor: pointer;
+}
+
+.login-signup
+{
+    display: flex;
+    width: auto;
+    height: auto;
+    padding: 10px;
+    background-color: purple;
+    color: white;
+    text-align: center;
+    align-items: center;
+}
+
+.login
+{
+    margin-left: 37%;
+}
